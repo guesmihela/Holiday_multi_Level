@@ -18,7 +18,8 @@
     'demo': [],
     'qweb': [],
     'installable': True,
-    'application': False,
+    'application': True,  
+    'sequence': 6,
     'auto_install': False
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
